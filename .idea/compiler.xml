@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chapter02-putting-together" target="1.8" />
+      <module name="chapter02-putting-together" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
